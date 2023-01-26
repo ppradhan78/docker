@@ -5,3 +5,5 @@
 /.vs
 /Docker.CoreAPI/bin/Debug/net6.0
 /Docker.CoreAPI/obj
+/ConsoleApp1/bin
+/ConsoleApp1/obj
